@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+.container{
+    width: 700px;
+    height: 500px;
+    border: 2px solid black;
+    
+}
+.par{
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    position: relative;
+    top: 50px;
+    left: 30px;
+}
+
+.container1{
+    width: 700px;
+    height: 500px;
+    border: 2px solid black;
+    position: relative;
+    
+}
+.par1{
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    position: absolute;    
+    top: 150px;
+    left: 50px;
+}
+.fix{
+    position: fixed;
+    top: 100px;
+    right: 100px;
+}
+.fix1{
+
+}
